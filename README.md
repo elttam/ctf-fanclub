@@ -1,6 +1,6 @@
 # Overview
 
-**Title:** fanclub 
+**Title:** fanclub  
 **Category:** Crypto  
 **Flag:** libctf{padding_oracle_attack_first_published_2002}  
 **Difficulty:** easy to moderate  
